@@ -37,12 +37,21 @@ namespace ASP_Pustok
             app.UseRouting();
             app.UseStaticFiles();
 
+
+
             app.UseEndpoints(endpoints =>
             {
+
                 endpoints.MapControllerRoute(
-                    "default",
-                    "{controller=home}/{action=index}/{id?}"
-                    );
+                name: "areas",
+                pattern: "{area:exists}/{controller=home}/{action=index}/{id?}");
+
+
+
+                endpoints.MapControllerRoute(
+                   name: "default",
+                   pattern: "{controller=home}/{action=index}/{id?}");
+
             });
         }
     }

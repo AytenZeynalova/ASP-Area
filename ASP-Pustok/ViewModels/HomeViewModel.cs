@@ -10,6 +10,7 @@ namespace ASP_Pustok.ViewModels
     {
         public List<HomeSlider> HomeSliderss;
         public List<HomeFuture> HomeFuturess;
+        public List<Author> Authorss;
 
 
     }

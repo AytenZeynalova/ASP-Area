@@ -17,6 +17,7 @@ namespace ASP_Pustok.DAL
 
         public DbSet<HomeSlider> HomeSliders { get; set; }
         public DbSet<HomeFuture> HomeFutures { get; set; }
+        public DbSet<Author> Authors { get; set; }
 
 
     }

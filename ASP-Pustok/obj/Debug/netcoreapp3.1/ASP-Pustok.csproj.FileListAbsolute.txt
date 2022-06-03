@@ -145,3 +145,8 @@ C:\Users\Ayten\Desktop\ASP-Pustok\ASP-Pustok\bin\Debug\netcoreapp3.1\runtimes\un
 C:\Users\Ayten\Desktop\ASP-Pustok\ASP-Pustok\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Ayten\Desktop\ASP-Pustok\ASP-Pustok\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Ayten\Desktop\ASP-Pustok\ASP-Pustok\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ayten\Desktop\ASP-Pustok\ASP-Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Ayten\Desktop\ASP-Pustok\ASP-Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ayten\Desktop\ASP-Pustok\ASP-Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ayten\Desktop\ASP-Pustok\ASP-Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ayten\Desktop\ASP-Pustok\ASP-Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Author\Index.cshtml.g.cs
